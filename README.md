@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Java loops using post-increment operators. The bug and solution are provided in separate java files.
